@@ -1,5 +1,5 @@
 
-h 
+
 let i=28;
 
 if(b> 10){
@@ -36,7 +36,7 @@ const arr2 = [6,7,8,9,10]
 const arr3 = [...arr1,...arr2]
 console.log(arr3)
 
-t
+
 const{name,age}=user
 
 const [c,d,e]=arr3
